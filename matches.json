@@ -6,13 +6,13 @@
       "imagem": "TODO"
     },
     "mandante": {
-      "nome": "STP",
+      "nome": "Boa Morte",
       "forca": 5,
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bandeira_S%C3%A3o_Tom%C3%A9.PNG"
     },
     "visitante": {
       "nome": "Argentina",
-      "forca": 5,
+      "forca": 4,
       "imagem": "https://bandeira.net/wp-content/uploads/2018/08/bandeira-da-argentina.png"
     }
   }
